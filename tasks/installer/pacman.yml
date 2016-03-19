@@ -1,0 +1,5 @@
+---
+- name: install lsb_release
+  pacman:
+    name: '{{ lsbrelease_package }}'
+    state: present

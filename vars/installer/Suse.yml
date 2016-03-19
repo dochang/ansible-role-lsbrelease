@@ -1,0 +1,3 @@
+---
+lsbrelease_installer: zypper
+lsbrelease_package: lsb-release

@@ -1,0 +1,5 @@
+---
+- name: install lsb_release
+  apt:
+    name: '{{ lsbrelease_package }}'
+    state: present

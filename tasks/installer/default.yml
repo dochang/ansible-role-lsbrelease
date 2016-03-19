@@ -1,0 +1,4 @@
+---
+- name: install lsb_release
+  fail:
+    msg: 'Not supported.'
