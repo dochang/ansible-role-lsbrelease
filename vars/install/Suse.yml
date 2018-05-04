@@ -1,3 +1,2 @@
 ---
-lsbrelease_installer: apt
 lsbrelease_package: lsb-release

@@ -1,3 +1,2 @@
 ---
-lsbrelease_installer: pacman
 lsbrelease_package: lsb-release

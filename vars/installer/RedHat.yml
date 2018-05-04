@@ -1,3 +1,0 @@
----
-lsbrelease_installer: '{{ ansible_pkg_mgr }}'
-lsbrelease_package: redhat-lsb-core

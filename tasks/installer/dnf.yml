@@ -1,5 +1,0 @@
----
-- name: install lsb_release
-  dnf:
-    name: '{{ lsbrelease_package }}'
-    state: present
