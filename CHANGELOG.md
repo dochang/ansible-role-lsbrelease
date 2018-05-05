@@ -2,6 +2,8 @@
 
 ## [Unreleased] ##
 
+## [2.1.0] - 2018-05-05 ##
+
 ### Removed ###
 
   - Duplicated files.
@@ -19,6 +21,7 @@
 
   - Initial release
 
-[Unreleased]: https://github.com/dochang/ansible-role-lsbrelease/compare/2.0.0...HEAD
+[Unreleased]: https://github.com/dochang/ansible-role-lsbrelease/compare/2.1.0...HEAD
+[2.1.0]: https://github.com/dochang/ansible-role-lsbrelease/compare/2.0.0...2.1.0
 [2.0.0]: https://github.com/dochang/ansible-role-lsbrelease/compare/1.0.0...2.0.0
 [1.0.0]: https://github.com/dochang/ansible-role-lsbrelease/commits/1.0.0
