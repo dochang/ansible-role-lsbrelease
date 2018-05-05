@@ -2,6 +2,10 @@
 
 ## [Unreleased] ##
 
+### Removed ###
+
+  - Duplicated files.
+
 ## [2.0.0] - 2018-05-05 ##
 
 ### Changed ###
